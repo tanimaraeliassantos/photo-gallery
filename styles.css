@@ -17,4 +17,5 @@ body {
 .header {
     text-align: center;
     text-transform: uppercase;
+    padding: 32px;
 }
